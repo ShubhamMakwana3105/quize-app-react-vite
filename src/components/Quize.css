@@ -1,0 +1,7 @@
+span{
+    text-align: center;
+}
+.span{
+    display: flex;
+    flex-direction: column;
+}
